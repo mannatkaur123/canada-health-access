@@ -1,0 +1,52 @@
+province,region,pct_meeting_benchmark,median_wait_days,p90_wait_days,volume
+Alberta,Calgary Zone,75.1,108.0,278.0,935.0
+Alberta,Central Zone (Alta.),76.3,98.0,288.0,287.0
+Alberta,Edmonton Zone,79.2,95.0,257.0,903.0
+Alberta,North Zone (Alta.),52.6,173.0,455.0,287.0
+Alberta,South Zone,64.3,115.0,383.0,350.0
+British Columbia,Fraser Health,52.7,169.0,347.0,850.0
+British Columbia,Interior Health,64.8,139.0,364.0,1123.0
+British Columbia,Island Health,68.8,121.0,331.0,1062.0
+British Columbia,Northern Health,35.7,363.0,754.0,280.0
+British Columbia,Vancouver Coastal Health,72.8,107.0,338.0,914.0
+Manitoba,Prairie Mountain Health Region,29.0,278.0,349.0,49.0
+Manitoba,Southern Health Region,70.0,127.0,278.0,113.0
+Manitoba,Winnipeg–Churchill Health Region,53.0,178.0,508.0,891.0
+New Brunswick,Horizon Health Network,45.0,199.0,343.0,439.0
+New Brunswick,Vitalité Health Network,63.0,130.0,358.0,191.0
+Newfoundland and Labrador,Central Zone,38.0,217.0,610.0,61.0
+Newfoundland and Labrador,Eastern–Rural Zone,24.0,422.0,757.0,46.0
+Newfoundland and Labrador,Eastern–Urban Zone,33.0,252.0,748.0,147.0
+Newfoundland and Labrador,Labrador–Grenfell Zone,47.0,197.0,545.0,34.0
+Newfoundland and Labrador,Western Zone (N.L.),75.0,108.0,426.0,60.0
+Nova Scotia,Central Zone (N.S.),63.0,128.0,463.0,475.0
+Nova Scotia,Eastern Zone,94.0,97.0,167.0,110.0
+Nova Scotia,Northern Zone (N.S.),83.0,95.0,253.0,144.0
+Nova Scotia,Western Zone (N.S.),37.0,230.0,617.0,197.0
+Ontario,Central Region,84.103156274057,90.0,216.0,2598.0
+Ontario,East Region,84.3760683760684,79.0,211.0,2925.0
+Ontario,North East Region,65.3144016227181,132.0,292.0,493.0
+Ontario,North West Region,67.3913043478261,132.0,292.0,276.0
+Ontario,Toronto Region,93.6158503026968,44.0,156.0,1817.0
+Ontario,West Region,75.778038755138,97.0,295.0,3406.0
+Prince Edward Island,Health PEI,45.3,204.0,512.0,148.0
+Quebec,Abitibi-Témiscamingue Region,44.7,258.0,593.0,103.0
+Quebec,Bas-Saint-Laurent Region,65.7,125.5,304.0,140.0
+Quebec,Capitale-Nationale Region,31.6,280.0,382.5,370.0
+Quebec,Chaudière-Appalaches Region,43.4,210.0,431.0,341.0
+Quebec,Côte-Nord Region,100.0,73.0,129.0,45.0
+Quebec,Estrie Region,39.6,229.5,426.0,328.0
+Quebec,Gaspésie–Îles-de-la-Madeleine Region,87.8,31.0,284.0,49.0
+Quebec,Lanaudière Region,50.4,182.0,460.0,232.0
+Quebec,Laurentides Region,31.0,286.0,595.0,409.0
+Quebec,Laval Region,53.2,173.0,347.0,205.0
+Quebec,Mauricie et Centre-du-Québec Region,57.2,156.0,320.0,306.0
+Quebec,Montréal Region,55.2,161.0,417.5,1160.0
+Quebec,Montérégie Region,47.8,195.5,436.5,790.0
+Quebec,Outaouais Region,23.4,345.0,495.0,167.0
+Quebec,Saguenay–Lac-Saint-Jean Region,76.4,107.0,260.0,233.0
+Saskatchewan,North Central East Zone,59.7402597402597,120.0,422.0,77.0
+Saskatchewan,North Central West Zone,93.6170212765958,90.0,176.0,47.0
+Saskatchewan,Regina Zone,40.3225806451613,292.0,583.0,434.0
+Saskatchewan,Saskatoon Zone,56.0330578512397,166.0,371.0,605.0
+Saskatchewan,South West Zone,27.2727272727273,262.5,377.0,44.0
