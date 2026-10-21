@@ -1,0 +1,50 @@
+province,region,pct_meeting_benchmark,median_wait_days,p90_wait_days,volume,rank_shortest,region_key,family_docs_per_100k,specialists_per_100k
+Alberta,Calgary Zone,75.1,108.0,278.0,935.0,14,calgary zone,131.5298450394895,142.6945876998183
+Alberta,Central Zone (Alta.),76.3,98.0,288.0,287.0,11,central zone,108.4310153012689,52.20006126956999
+Alberta,Edmonton Zone,79.2,95.0,257.0,903.0,7,edmonton zone,111.8284691222693,156.2038715236966
+Alberta,North Zone (Alta.),52.6,173.0,455.0,287.0,30,north zone,89.2237952673331,31.71461917085299
+Alberta,South Zone,64.3,115.0,383.0,350.0,16,south zone,104.3269844939077,76.34423646638724
+British Columbia,Fraser Health,52.7,169.0,347.0,850.0,29,fraser health,96.66723273604755,79.45992476532521
+British Columbia,Interior Health,64.8,139.0,364.0,1123.0,25,interior health,150.86381336954668,113.76615434424829
+British Columbia,Island Health,68.8,121.0,331.0,1062.0,18,island health,177.27357157366137,137.30011915999265
+British Columbia,Northern Health,35.7,363.0,754.0,280.0,50,northern health,146.228750618914,68.6581944215217
+British Columbia,Vancouver Coastal Health,72.8,107.0,338.0,914.0,12,vancouver coastal health,165.60001992180693,245.94642498780524
+Manitoba,Prairie Mountain Health Region,29.0,278.0,349.0,49.0,45,prairie mountain health region,115.6362194665316,40.74800114534922
+Manitoba,Southern Health Region,70.0,127.0,278.0,113.0,20,southern health region,83.17402531799912,23.0797033604919
+Manitoba,Winnipeg–Churchill Health Region,53.0,178.0,508.0,891.0,32,winnipeg-churchill health region,120.1134481932646,173.4586308686933
+Newfoundland and Labrador,Central Zone,38.0,217.0,610.0,61.0,39,central zone,103.2989736038155,92.30972109277127
+Newfoundland and Labrador,Eastern–Rural Zone,24.0,422.0,757.0,46.0,51,eastern-rural zone,81.80415341997137,46.47963262498373
+Newfoundland and Labrador,Eastern–Urban Zone,33.0,252.0,748.0,147.0,42,eastern-urban zone,142.7658214361815,219.9019816748349
+Newfoundland and Labrador,Labrador–Grenfell Zone,47.0,197.0,545.0,34.0,35,labrador-grenfell zone,107.5624689723647,74.46632467317558
+Newfoundland and Labrador,Western Zone (N.L.),75.0,108.0,426.0,60.0,14,western zone,138.5827603046181,105.5868649939948
+Nova Scotia,Central Zone (N.S.),63.0,128.0,463.0,475.0,21,central zone,129.6688398732635,199.9299293200098
+Nova Scotia,Eastern Zone,94.0,97.0,167.0,110.0,9,eastern zone,120.3721411616474,106.3099751380905
+Nova Scotia,Northern Zone (N.S.),83.0,95.0,253.0,144.0,7,northern zone,97.91265193611355,74.2140482827867
+Nova Scotia,Western Zone (N.S.),37.0,230.0,617.0,197.0,41,western zone,124.8468748386612,86.8295934028283
+Ontario,Central Region,84.103156274057,90.0,216.0,2598.0,5,central region,92.36923851982321,76.04899054819688
+Ontario,East Region,84.3760683760684,79.0,211.0,2925.0,4,east region,111.5580689347089,110.8562539496164
+Ontario,North East Region,65.3144016227181,132.0,292.0,493.0,23,north east region,115.7494617329394,74.7081013400966
+Ontario,North West Region,67.3913043478261,132.0,292.0,276.0,23,north west region,148.2555666724727,87.09001867372028
+Ontario,Toronto Region,93.6158503026968,44.0,156.0,1817.0,2,toronto region,132.1369617175544,188.9634932307686
+Ontario,West Region,75.778038755138,97.0,295.0,3406.0,9,west region,95.40640398426301,101.8343389089065
+Prince Edward Island,Health PEI,45.3,204.0,512.0,148.0,37,health pei,118.1741809017082,92.97115653878465
+Quebec,Abitibi-Témiscamingue Region,44.7,258.0,593.0,103.0,43,abitibi-témiscamingue region,173.0855336581193,84.20377313097697
+Quebec,Bas-Saint-Laurent Region,65.7,125.5,304.0,140.0,19,bas-saint-laurent region,153.7395310700271,123.9677488628155
+Quebec,Capitale-Nationale Region,31.6,280.0,382.5,370.0,46,capitale-nationale region,154.6173466875449,185.1468864793532
+Quebec,Chaudière-Appalaches Region,43.4,210.0,431.0,341.0,38,chaudière-appalaches region,108.5738148091167,94.94714169542188
+Quebec,Côte-Nord Region,100.0,73.0,129.0,45.0,3,côte-nord region,189.2126527613917,71.2329986866416
+Quebec,Estrie Region,39.6,229.5,426.0,328.0,40,estrie region,133.7369826835929,140.6770505086882
+Quebec,Gaspésie–Îles-de-la-Madeleine Region,87.8,31.0,284.0,49.0,1,gaspésie-îles-de-la-madeleine region,225.2642522959626,102.8851152313291
+Quebec,Lanaudière Region,50.4,182.0,460.0,232.0,33,lanaudière region,98.11113801797696,71.04599649577641
+Quebec,Laurentides Region,31.0,286.0,595.0,409.0,47,laurentides region,112.8297858757893,72.00321861810235
+Quebec,Laval Region,53.2,173.0,347.0,205.0,30,laval region,107.5161382809581,96.00430933370403
+Quebec,Mauricie et Centre-du-Québec Region,57.2,156.0,320.0,306.0,26,mauricie et centre-du-québec region,122.6664830595231,96.93732413123321
+Quebec,Montréal Region,55.2,161.0,417.5,1160.0,27,montréal region,140.4939188215959,224.326803758803
+Quebec,Montérégie Region,47.8,195.5,436.5,790.0,34,montérégie region,105.8635698149706,79.49704867206805
+Quebec,Outaouais Region,23.4,345.0,495.0,167.0,49,outaouais region,119.6040660701287,65.30241572126401
+Quebec,Saguenay–Lac-Saint-Jean Region,76.4,107.0,260.0,233.0,12,saguenay-lac-saint-jean region,150.2957094236456,118.2140266696424
+Saskatchewan,North Central East Zone,59.7402597402597,120.0,422.0,77.0,17,north central east zone,102.4219321550961,44.66520349620731
+Saskatchewan,North Central West Zone,93.6170212765958,90.0,176.0,47.0,5,north central west zone,99.61119501301373,29.99046731574607
+Saskatchewan,Regina Zone,40.3225806451613,292.0,583.0,434.0,48,regina zone,130.6829666078884,129.9859907859796
+Saskatchewan,Saskatoon Zone,56.0330578512397,166.0,371.0,605.0,28,saskatoon zone,131.8639917114062,203.1781913104321
+Saskatchewan,South West Zone,27.2727272727273,262.5,377.0,44.0,44,south west zone,103.0347760637793,28.49898061338575
